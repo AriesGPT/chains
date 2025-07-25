@@ -135,7 +135,8 @@ npx prettier --write _data/*/*.json
  * EIP-3014
  * EIP-3770
  * EIP-4527
-
+ * EIP-2555
+ * EIP-5678
 ### Listing sites
  * [chainid.network](https://chainid.network) / [chainlist.wtf](https://chainlist.wtf)
  * [chainlist.org](https://chainlist.org)
